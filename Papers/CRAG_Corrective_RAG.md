@@ -34,7 +34,9 @@ The experiments demonstrate that CRAG significantly improves the performance of 
 
 
 
-## 👉 Overall, CRAG represents a significant advancement in the field of text generation by combining corrective mechanisms with advanced retrieval and refinement strategies to produce more accurate and reliable outputs.
+## 👉 Overall:
+
+CRAG represents a significant advancement in the field of text generation by combining corrective mechanisms with advanced retrieval and refinement strategies to produce more accurate and reliable outputs.
 
 - Paper: https://lnkd.in/e2MA9qHY
 - Code github: https://lnkd.in/e5wCr7Ti
