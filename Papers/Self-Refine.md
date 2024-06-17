@@ -5,9 +5,11 @@ SELF-REFINE is a method that improves outputs from LLMs through iterative feedba
 Self-refine algorithm alternates between two generative steps: FEEDBACK and REFINE.
 
 ![Self-Refine](images/self_refine.png)
-![Self-Refine](images/self_refine_prompts_examples.png)
-
 Paper link: https://arxiv.org/abs/2303.17651
+
+
+## 👉 SELF-REFINE Algirthm and Prompts Example :
+![Self-Refine](images/self_refine_prompts_examples.png)
 
 
 ## 👉 SELF-REFINE operates by :
