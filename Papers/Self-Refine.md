@@ -16,7 +16,8 @@ Paper link: https://arxiv.org/abs/2303.17651
 This process does not require any additional training, relying instead on in-context learning .
 
 
-## 👉 The effectiveness of SELF-REFINE is quantified using specific, task-related metrics and a human preference evaluation. Results show that SELF-REFINE consistently outperforms base models and previous state-of-the-art methods across various tasks, including code optimization, dialogue response generation, and math reasoning  .
+## 👉 Evaluation
+The effectiveness of SELF-REFINE is quantified using specific, task-related metrics and a human preference evaluation. Results show that SELF-REFINE consistently outperforms base models and previous state-of-the-art methods across various tasks, including code optimization, dialogue response generation, and math reasoning  .
 
 Authors show that SELF-REFINE outperforms:
 1- Direct generation from strong LLMs like GPT-3.5 (text-davinci-003 and gpt-3.5-turbo) and GPT-4 by 5-40% absolute improvement. (Paper from May 2023)
