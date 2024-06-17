@@ -68,5 +68,5 @@ For example, if the original response mentioned an event after 1845, but a verif
 Different LLMs have been evaluated (depending on the task):
 LLama 65B, Llama 2 70B Chat, ChatGPT, InstructGPT, PerplexityAI. Alongside different prompt techniques: Zero-Shot CoT, CoT, Few-shot, CoVe and its  verification execution variants.
 
-Results:
+## 👉Results:
 The method consistently reduced hallucinations and improved accuracy across all tasks compared to baseline models.
