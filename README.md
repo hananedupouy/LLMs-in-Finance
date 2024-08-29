@@ -1,4 +1,4 @@
 # LLMs-in-Finance
-LLMs in Finance - Generative AI - AI Agents 
+LLMs in Finance - Generative AI - RAG - AI Agents 
 
-In this repo, I will be sharing knwoledge about LLMs uses cases in Finance
+In this repo, I will be sharing knwoledge about LLMs' use cases in Finance.
