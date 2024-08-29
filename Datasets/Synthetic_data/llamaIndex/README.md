@@ -2,7 +2,7 @@
 
 Generating synthetic data can be a game-changer in financial analysis, and with LlamaIndex, it's both efficient and cost-effective. Here's how you can leverage an LLM to create valuable insights without the need for manual labeling.
 
-![Synthetic Data Generation: LlamaIndex and GPT-4o-mini](./images/synthetic_data_llamaindex_financial_report.png)
+![Synthetic Data Generation: LlamaIndex and GPT-4o-mini](../images/synthetic_data_llamaindex_financial_report.png)
 
 ## 👉 The Core Idea: 
 Use a Large Language Model (LLM) to generate hypothetical questions that align perfectly with specific pieces of context. This approach allows for the scalable creation of synthetic pairs of (query, chunk context) without relying on human intervention.
