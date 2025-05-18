@@ -23,7 +23,7 @@ Let’s dive in!
 
 ## [AI Agents in Finance](https://github.com/hananedupouy/LLMs-in-Finance/tree/main/Agents)
 
-Here are some examples you can find in my repo:
+Below are some examples included in this repository:
 
 
 ### [OpenAI Agents SDK](https://github.com/hananedupouy/LLMs-in-Finance/tree/main/Agents/OpenAI)
@@ -86,9 +86,8 @@ You'll find in this repo several examples showcasing the use of various multimod
 
 I provide here a brief description of several papers discussing the application of GenAI in finance.
 
-
-
-You can also find other examples of synthetic data 
+## Others
+You can also find other examples related to synthetic data.
 
 # Disclaimer
 This project is intended solely for educational and research purposes. 
