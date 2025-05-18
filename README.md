@@ -23,6 +23,8 @@ Let’s dive in!
 
 ## [AI Agents in Finance](https://github.com/hananedupouy/LLMs-in-Finance/tree/main/Agents)
 
+![Agentic Workflows - Frameworks](Papers/images/agentic_workflows_frameworks.png)
+
 Below are some examples included in this repository:
 
 
