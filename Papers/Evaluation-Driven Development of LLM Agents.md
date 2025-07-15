@@ -23,7 +23,7 @@ By introducing:
 A/ A Process Model
 B/ A Reference Architecture
 
-![Evaluation-driven development of LLM Agents](images/Evaluation-driven development of LLM Agents.png)
+![Evaluation-driven development of LLM Agents](images/Evaluation-driven_development_of_LLM_Agents.png)
 
 
 ## A – Process Model
