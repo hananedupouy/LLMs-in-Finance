@@ -4,6 +4,8 @@ The starter kit of the masterclass. One zip file, `second-brain-kit.zip`, holds 
 AI agents that works on plain files on your own computer. Unzip it, double-click one file, and
 you talk to the team.
 
+Created by **Hanane Dupouy**: https://www.linkedin.com/in/hanane-dupouy/
+
 ## What it is for
 
 A second brain is a team of 16 AI agents that knows who you are, listens, remembers, proposes,
@@ -144,3 +146,22 @@ brains/project-manager/  an example brain: a fictional project manager, meeting 
   fictional example.
 - **The network** is used by Claude Code, and by two tools you launch yourself: the daily radar
   (up to three sources you choose) and the download of one page or paper.
+
+## Credit
+
+**CREDIT TO HANANE DUPOUY.** The SECOND method, the team of agents and this kit were designed
+and built by Hanane Dupouy.
+
+LinkedIn: https://www.linkedin.com/in/hanane-dupouy/
+
+If you use, share or adapt this kit, please keep this credit and link back to this page.
+
+## Licence
+
+This folder is licensed under **CC BY-NC 4.0** (Creative Commons Attribution-NonCommercial 4.0
+International), not under the MIT licence of the rest of the repository. See `LICENSE` in this
+folder.
+
+- **You may** share, reuse and adapt the kit.
+- **You must** credit Hanane Dupouy, link to the licence, and say if you changed something.
+- **You may not** use it for commercial purposes. For a commercial use, ask the author first.

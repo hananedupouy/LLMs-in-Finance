@@ -99,3 +99,7 @@ This project is intended solely for educational and research purposes.
 * The creator bears no responsibility for any financial losses.
 
 By using this software, you acknowledge and agree that it is for learning purposes only.
+
+
+# Licence exception:
+Except the folder [`IMA_SECOND_BRAIN_18_NOV/`](IMA_SECOND_BRAIN_18_NOV/), which is licensed under CC BY-NC 4.0 (reuse and adapt with credit, no commercial use): see [its LICENSE](IMA_SECOND_BRAIN_18_NOV/LICENSE).
